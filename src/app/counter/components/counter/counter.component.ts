@@ -10,7 +10,7 @@ import { Component, OnInit } from '@angular/core';
     <button (click)="increaseBy(-1)" class="parrafo">-1 </button>
 
   `,
-  styleUrls: ['../app.component.css'],
+  styleUrls: ['../../../app.component.css'],
 })
 
 export class CounterComponent {
